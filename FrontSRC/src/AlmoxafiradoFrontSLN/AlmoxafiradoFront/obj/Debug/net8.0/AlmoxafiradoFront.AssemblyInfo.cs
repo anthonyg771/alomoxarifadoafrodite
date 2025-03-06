@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlmoxafiradoFront")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8be8fabe6889439def37b0b1c0b4568be4dcf85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+507ec7637b549ab9e64532a499d29b9d2c3b2aa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlmoxafiradoFront")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlmoxafiradoFront")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

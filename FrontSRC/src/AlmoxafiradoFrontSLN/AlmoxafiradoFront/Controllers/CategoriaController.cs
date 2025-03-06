@@ -14,12 +14,11 @@ namespace AlmoxafiradoFront.Controllers
             using HttpClient client = new HttpClient();
             try
             {
-                HttpResponseMessage response =  client.GetAsync(url).Result ;
+                HttpResponseMessage response = client.GetAsync(url).Result;
                 response.EnsureSuccessStatusCode();
-                string json =  response.Content.ReadAsStringAsync().Result;
-                 categorias = JsonSerializer.Deserialize<List<CategoriaDTO>>(json); 
-                 ViewBag.Categorias = categorias;
-
+                string json = response.Content.ReadAsStringAsync().Result;
+                categorias = JsonSerializer.Deserialize<List<CategoriaDTO>>(json);
+                ViewBag.Categorias = categorias;
 
             }
             catch (Exception)
