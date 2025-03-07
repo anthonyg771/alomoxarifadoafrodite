@@ -81,3 +81,15 @@ body {
     width: 100%;
  
 }
+.as {
+    border: 2px rgba(0, 67, 2, 0.556) solid;
+    align-items: start;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.app {
+    align-items: start;
+    margin-left: 100px;
+    margin-right: 100px;
+}
