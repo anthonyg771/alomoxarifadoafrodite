@@ -6,6 +6,3 @@ BackSRC/AlmoxarifadoSLN/AlmoxarifadoAPI/obj/
 *.dll
 *.cache
 *.vsidx
-*.vsidx
-*.vsidx
-/BackSRC/AlmoxarifadoBackSLN/.vs/AlmoxarifadoBackSLN/FileContentIndex
