@@ -29,7 +29,7 @@ namespace AlmoxarifadoBackAPI.Controllers
             return Ok(_db.GetAll().Where(x=>x.Codigo==categoria.Codigo));
         }
 
-        [HttpPost("/criarcategoria")]
+        [HttpPost("/criarCategoria")]
         public IActionResult criarCategoria(CategoriaCadastroDTO categoria)
         {
 

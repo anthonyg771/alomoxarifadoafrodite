@@ -66,3 +66,12 @@ C:\Users\tarde.cetafest\Documents\github\alomoxarifadoafrodite\FrontSRC\src\Almo
 C:\Users\tarde.cetafest\Documents\github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.pdb
 C:\Users\tarde.cetafest\Documents\github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.genruntimeconfig.cache
 C:\Users\tarde.cetafest\Documents\github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\ref\AlmoxafiradoFront.dll
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.RazorAssemblyInfo.cache
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.RazorAssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.sourcelink.json
+C:\Users\manha.cetafest\Documents\Github\alomoxarifadoafrodite\FrontSRC\src\AlmoxafiradoFrontSLN\AlmoxafiradoFront\obj\Debug\net8.0\AlmoxafiradoFront.pdb

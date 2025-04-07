@@ -6,7 +6,7 @@ using System.Text.Json;
 
 namespace AlmoxafiradoFront.Controllers
 {
-    public class CategoriaController : Controller
+    public class ProdutoController : Controller
     {
         public  IActionResult Index()
         {
@@ -49,7 +49,7 @@ namespace AlmoxafiradoFront.Controllers
             try
             {
                 var categoriaNova = new CategoriaNovaDTO { descricao = descricao };
-
+                
                 var cartoriaSerializada= JsonSerializer.Serialize<CategoriaNovaDTO>(categoriaNova);
 
                 var jsonContent = new StringContent(cartoriaSerializada, Encoding.UTF8,"application/json");

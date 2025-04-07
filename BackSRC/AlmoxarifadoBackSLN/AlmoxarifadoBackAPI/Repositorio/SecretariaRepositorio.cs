@@ -2,24 +2,24 @@
 
 namespace AlmoxarifadoBackAPI.Repositorio
 {
-    public class ProdutoRepositorio : IProdutoRepositorio
+    public class SecretariaRepositorio : ISecretariaRepositorio
     {
         private readonly Context _db;
 
-        public ProdutoRepositorio(Context db)
+        public SecretariaRepositorio(Context db)
         {
             _db = db;
         }
 
-        public void Add(Produto obj)
+        public void Add(Secretaria secretaria)
         {
             
-            _db.Produto.Add(obj);
+            _db.Secretaria.Add(secretaria);
             _db.SaveChanges();
         }
 
-        public List<Produto> GetAll() { 
-          return _db.Produto.ToList();
+        public List<Secretaria> GetAll() { 
+          return _db.Secretaria.ToList();
         }
 
 

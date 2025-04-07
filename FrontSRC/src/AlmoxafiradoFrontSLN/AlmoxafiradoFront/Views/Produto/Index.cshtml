@@ -1,0 +1,53 @@
+﻿<div id="container" class="containerCategoria">
+    <div class="container1Categoria">
+        <div>
+          
+            <a  class="btn btn-success" href="/categoria/create">Novo</a>
+        </div>
+    </div>
+    <div class="container2Categoria">
+        <table class="TableContainerCategoria">
+            <thead class="theadCategoria">
+            <th>
+                Código
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th>
+                Opções
+            </th>
+            </thead>
+            <tbody>
+           
+                @foreach (var item in ViewBag.Categorias)
+                {
+                    <tr>
+                        <td class="tdCategoria">@item.codigo</td>
+                        <td class="tdCategoria">@item.descricao</td>
+                        <td class="tdCategoria">
+                            <div class="IconesContainerCategoria">
+                                <img class="iconelixo" src="./imagens/trash.svg"/>
+                               
+                                <div class="Icone2Categoria">
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+               
+                }
+            </tbody>
+
+        
+        </table>
+    </div>
+    <div class="container3Categoria">
+        <div>
+            <button class="btn btn-primary">
+                Voltar
+            </button>
+          
+        </div>
+    </div>
+</div>
+

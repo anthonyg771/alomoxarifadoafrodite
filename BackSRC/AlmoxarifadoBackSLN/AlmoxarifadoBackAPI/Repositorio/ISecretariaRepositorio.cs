@@ -2,11 +2,11 @@
 
 namespace AlmoxarifadoBackAPI.Repositorio
 {
-    public interface IProdutoRepositorio
+    public interface ISecretariaRepositorio
     {
-        void Add(Produto obj);
+        void Add(Secretaria secretaria);
 
-        List<Produto> GetAll();
+        List<Secretaria> GetAll();
 
         
     }
